@@ -30,9 +30,11 @@
 
 <br/>
 
+![](https://velog.velcdn.com/images/27kanghan/post/42cb07d5-7fe3-424f-a849-870811d87803/image.gif)
+
 **모으또 (Moeutto)를 활용하여 옷장을 관리해보세요!!**
 
-![](https://velog.velcdn.com/images/27kanghan/post/42cb07d5-7fe3-424f-a849-870811d87803/image.gif)
+
 
 
 <br/>
