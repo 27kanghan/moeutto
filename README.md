@@ -30,7 +30,8 @@
 
 <br/>
 
-![](https://velog.velcdn.com/images/27kanghan/post/42cb07d5-7fe3-424f-a849-870811d87803/image.gif)
+![moeutto (1)](https://github.com/27kanghan/moeutto/assets/58686114/fe4bbb75-a414-4842-ab25-ea9670467e03)
+
 
 **모으또 (Moeutto)를 활용하여 옷장을 관리해보세요!!**
 
